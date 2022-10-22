@@ -44,7 +44,7 @@ Download Python 3.9.5
 • Dm Termed#004 or YMZ#0001 to buy paid version
 
 # Issue Or Problem
-<a href="https://www.python.org/downloads/release/python-395/">Discord Server</a> 
+<a href="https://discord.gg/G7xshauqqp">Discord Server</a> 
 
 # Credits
 
