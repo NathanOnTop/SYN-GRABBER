@@ -41,6 +41,8 @@ Download Python 3.9.5
 
 • password grabber and webcam grabber
 
+• Dm Termed#004 or YMZ#0001 to buy paid version
+
 # Credits
 
 Termed#004 and YMZ#0001
