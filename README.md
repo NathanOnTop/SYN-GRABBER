@@ -11,7 +11,7 @@ Download Python 3.9.5
 
 # Functions of SYN GRABBER
 
-**free version**
+# free version
 
 ```ip grabber
 
@@ -25,7 +25,7 @@ token grabber
 
 pc info grabber/ name and pc name```
 
-**paid version**
+# paid version
 
 ```ip grabber
 
