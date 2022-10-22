@@ -40,7 +40,9 @@ Download Python 3.9.5
 
 • pc info grabber/ name and pc name
 
-• password grabber and webcam grabber
+• password grabber
+
+• webcam grabber
 
 • Dm Termed#004 or YMZ#0001 to buy paid version
 
