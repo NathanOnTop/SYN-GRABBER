@@ -13,31 +13,34 @@ Download Python 3.9.5
 
 # free version
 
-`ip grabber
+• ip grabber
 
-roblox cookie grabber from roblox studio
+• roblox cookie grabber from roblox studio
 
-roblox appdata grabber 
+• roblox appdata grabber 
 
-pc screenshot grabber
+• pc screenshot grabber
 
-token grabber
+• token grabber
 
-pc info grabber/ name and pc name`
+• pc info grabber/ name and pc name
 
 # paid version
 
-`ip grabber
+• ip grabber
 
-roblox cookie grabber from roblox studio
+• roblox cookie grabber from roblox studio
 
-roblox appdata grabber 
+• roblox appdata grabber 
 
-pc screenshot grabber
+• pc screenshot grabber
 
-token grabber
+• token grabber
 
-pc info grabber/ name and pc name
+• pc info grabber/ name and pc name
 
-password grabber and webcam grabber`
+• password grabber and webcam grabber
 
+# Credits
+
+Termed#004 and YMZ#0001
