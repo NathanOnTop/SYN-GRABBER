@@ -7,7 +7,7 @@
 Download Python 3.9.5
 <a href="https://www.python.org/downloads/release/python-395/">Download Here</a> 
 
-```pip install -r install.txt``` in cmd prompt
+```open install.bat``` in cmd prompt
 ```python Syn.py``` in cmd prompt
 
 # Functions of SYN GRABBER
