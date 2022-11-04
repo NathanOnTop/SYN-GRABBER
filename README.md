@@ -2,11 +2,6 @@
 
 <img src="https://media.discordapp.net/attachments/1014901532497551371/1029069967548743820/IMG_7070.gif">
 
-# Little Preview
-
-<img src="https://user-images.githubusercontent.com/104595114/197344159-5c66c393-eff5-4d6b-83e9-a31a34961187.png">
-
-
 # How to use? 
 
 Download Python 3.9.5
